@@ -3,7 +3,7 @@ This projects objective was to create a design-focused cloud architecture applic
 
 ```
 ├──  README.md
-├──  architecture_diagram.png
+├──  architecture_diagram.png #Lucidchart screenshot
 ├──  architecture_plan.md
 ├──  reflection.md
 ├──  use_case.md
